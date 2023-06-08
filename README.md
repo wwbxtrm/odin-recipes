@@ -1,1 +1,1 @@
-The purpose of "odin-recipes" is to demonstrate my ability to use fundamental UNIX terminal commands, basic HTML, and various basic functions of Git, such as 'clone', 'add', 'commit', and 'push'.
+The purpose of "odin-recipes" is to demonstrate my ability to use fundamental UNIX terminal commands, basic HTML, and basic functions of Git, such as 'clone', 'add', 'commit', and 'push'.
