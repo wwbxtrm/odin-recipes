@@ -7,6 +7,17 @@ img {
   height: auto;
 }
 
+.recipelist {
+  line-height: 150%;
+  list-style-position: inside;
+  text-align: center;
+}
+
+.recipelist img {
+  height: 300px;
+  width: auto;
+}
+
 .centered {
   display: block;
   text-align: center;
@@ -28,7 +39,19 @@ h1 {
   background-color: rgb(228, 179, 179);
 }
 
+.beigeback {
+  background-color: rgb(223, 223, 199);
+}
+
 .maintextmargins {
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+ul {
+  line-height: 125%;
+}
+
+ol {
+  line-height: 125%;
 }
